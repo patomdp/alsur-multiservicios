@@ -88,7 +88,8 @@
         "meta_descr": "Empresa especializada en instalaciones eléctricas integrales para reformas, obra nueva y eficiencia energética. Soluciones en domótica, paneles solares y energías renovables para viviendas y empresas. Profesionalidad, innovación y compromiso en cada proyecto.",
         "header_custom": "",
         "footer_custom": "<script src=\"scripts/cleaner.js\"></script>",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/banner-alsur.png"
       },
       "components": [
         {
